@@ -1,0 +1,12 @@
+version: 1.10.1
+files:
+  - url: ddatelectron-1.10.1-mac.zip
+    sha512: QafYygnLcqn3PUk9t7Cy2JQ0eeiBczTvVuncc3XZema2s/S7E1Y6rS6JPkAZ/RMXagpeXxcrqOP58uZ3p1Bc6w==
+    size: 69369364
+    blockMapSize: 73953
+  - url: ddatelectron-1.10.1.dmg
+    sha512: FTB2AEb57MeVj6tl54jmVB3WtsuNzl9L7yKIzwYpkfIs7jr39eiRretSVsXZreWg+xhrVRNHZi5+oBQKwz2F3A==
+    size: 71540940
+path: ddatelectron-1.10.1-mac.zip
+sha512: QafYygnLcqn3PUk9t7Cy2JQ0eeiBczTvVuncc3XZema2s/S7E1Y6rS6JPkAZ/RMXagpeXxcrqOP58uZ3p1Bc6w==
+releaseDate: '2020-09-18T06:07:55.784Z'

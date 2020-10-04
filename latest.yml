@@ -1,0 +1,8 @@
+version: 1.10.1
+files:
+  - url: ddatelectron-Setup-1.10.1.exe
+    sha512: SWjyLhwlUhmVa/OSKtMoP8APL6IshGGkHhaZUEokxH/1FV7U0PbFh5sMEbX3H67Ob724kgOWsFzZVcPOm/JWOA==
+    size: 47958856
+path: ddatelectron-Setup-1.10.1.exe
+sha512: SWjyLhwlUhmVa/OSKtMoP8APL6IshGGkHhaZUEokxH/1FV7U0PbFh5sMEbX3H67Ob724kgOWsFzZVcPOm/JWOA==
+releaseDate: '2020-09-18T06:02:44.785Z'
